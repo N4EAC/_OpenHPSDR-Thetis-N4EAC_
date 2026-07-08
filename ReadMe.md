@@ -1,8 +1,10 @@
 \## Thetis N4EAC Edition RC2
 
-
+A minor modification to include FFT Max Bin signal reading to the legacy meter and the
+removal of 6m and VHF+ band buttons for HL2. Thanks & credits to MI0BOT.
 
 RC2 is a packaging and presentation release.
+<img width="1026" height="800" alt="image" src="https://github.com/user-attachments/assets/de78637e-0250-4e9b-b993-f65da59ca527" />
 
 
 
