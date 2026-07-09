@@ -29,5 +29,5 @@ RC2 is a packaging and presentation release.
 
 
 
-No DSP, CAT, meter, or radio-control functionality was changed in RC2.
+No additional changes to DSP, CAT, meter, or radio-control functionality was changed in RC2.
 
