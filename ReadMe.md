@@ -2,7 +2,7 @@
 
 A minor and modest modification to include FFT Max Bin signal reading to the legacy meter and the
 removal of 6m and VHF+ band buttons for HL2. Thanks & credits to MI0BOT.
-This version was been based on version .15 BETA1 of Thetis from MI0BOT and has been coded with AI (ChatGPT Plus). I have installed and tested
+This version is based on version 2.10.3.15 BETA1 of Thetis from MI0BOT and has been coded with AI (ChatGPT Plus). I have installed and tested
 personally in my own computer. No issues with Hermes Lite 2. 
 I don't recomend using this version with any radio other than Hermes Lite 2.
 
